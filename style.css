@@ -1,0 +1,27 @@
+.list{
+    background: rgb(224, 224, 224);
+    padding: 20px;
+    margin: 10px;
+
+}
+
+.list-one{
+    list-style-type:upper-roman;
+    
+}
+
+.list-three{
+    list-style-type:lower-alpha;
+    
+}
+.task-list-one p{
+    color: rgb(110, 110, 235);
+    padding: 0px;
+    margin: 0px;
+    font-weight: 100;
+}
+
+.task-list-one li{
+    margin: 2px;
+    font-weight: bold;
+}
